@@ -1,0 +1,8 @@
+total 28
+drwxr-xr-x 23 ze     ze         4096 Oct 15 15:59 ze/
+drwxr-xr-x 27 luiz   luiz       4096 Oct 14 16:48 luiz/
+drwxr-xr-x 18 vera   vera       4096 Sep  4 12:05 vera/
+drwxr-xr-x  2 111098 jaoschmidt 4096 Aug 13 14:03 jaoschmidt/
+drwxr-xr-x 16 luiz   luiz       4096 Aug 12 11:29 luiz.old/
+drwxr-xr-x  7   1001       1001 4096 Feb 12  2023 ubuntu/
+drwxr-xr-x  3 admin  admin      4096 Feb 25  2022 opc/
